@@ -1,0 +1,7 @@
+- name: MH-Tools
+  description: MH-Tools is a collection of tools for <a href="https://myhordes.eu">MyHordes</a>.
+  projects:
+    - name: Camping Predict
+      description: Camping tool for survivalists
+      homepage: https://camping-mh.phost.dev
+

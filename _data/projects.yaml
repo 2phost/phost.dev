@@ -5,3 +5,9 @@
       description: Camping tool for survivalists
       homepage: https://camping-mh.phost.dev
 
+- name: DEBUG
+  description: debug
+  projects:
+    - name: debug1
+      description: debug2
+
